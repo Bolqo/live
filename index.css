@@ -45,3 +45,12 @@ footer p {
         font-size: 200%;}
         
 }
+
+.icon{
+    width: 10%;
+    position: relative;
+    
+}
+.icon:hover{
+    width: 30%;
+}
